@@ -2,7 +2,7 @@
 
 **Information Systems Student | Aspiring Full Stack Developer | Swift Learner**
 
-I'm an Information Systems student (4rd term) at FIAP in São Paulo, Brazil. I am currently looking for my first opportunity as a Software Development Intern or Trainee. I'm passionate about building efficient, user-centric applications and I'm always looking for a new challenge to expand my skill set!
+I'm an Information Systems student (4rd term) at FIAP in São Paulo, Brazil. I am currently working at Venturi Corretora as a Software Development Intern. I'm passionate about building efficient, user-centric applications and I'm always looking for a new challenge to expand my skill set!
 
 ### 👩🏻‍💻 About Me
 * 🎓 Currently studying **Information Systems** at FIAP (Expected graduation: Dec 2028).
